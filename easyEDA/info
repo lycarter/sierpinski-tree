@@ -1,0 +1,119 @@
+{
+  "uuid": "6142d4cf3f659f93efa08f914d169cba",
+  "path": "Offline/sierpinski tree",
+  "name": "sierpinski tree",
+  "content": "",
+  "created_at": "2020-11-14 12:12:12",
+  "updated_at": "2020-11-29 16:42:22",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c0681aacd24dfce291fc6156a22cbc42",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "902f4cd0c5304519a675be2ee076e142": 3,
+        "beb7660708a0499fac6a060cc3851aa2": 1,
+        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 2,
+        "09189cc9389f4a3cb0c2b9bb3c839c92": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Header-Male-2.54_1x3",
+          2,
+          "HDR-TH_3P-P2.54-V",
+          "H1,H2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Header2.54mm 1*3P",
+            "BOM_Supplier Part": "C49257",
+            "puuid": "7e70b923819e4f3bb9fdeaf4abdca9d3",
+            "uuid": "21f8f80a3f7c3c2b00b33f71a31ff6ef"
+          }
+        ],
+        [
+          "WS2812B-MINI",
+          3,
+          "LED-SMD_4P-L3.5-W3.5-TL_WS2812B",
+          "LED1,LED3,LED2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C527089",
+            "BOM_Manufacturer": "Worldsemi",
+            "BOM_Manufacturer Part": "WS2812B-Mini",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "84f64690192b4f63a0f87a059e805018",
+            "uuid": "902f4cd0c5304519a675be2ee076e142"
+          }
+        ],
+        [
+          "Solder Bridge Jumper Pads",
+          6,
+          "SOLDER BRIDGE JUMPER PADS",
+          "JP5,JP6,JP2,JP3,JP4,JP1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "7b5acc26a9e741c1b103841d03f1ec7d",
+            "uuid": "09189cc9389f4a3cb0c2b9bb3c839c92"
+          }
+        ],
+        [
+          "Header-Female-2.54_1x3",
+          1,
+          "HDR-TH_3P-P2.54-V",
+          "P1",
+          {
+            "BOM_Supplier Part": "C146243",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Boom Precision Elec",
+            "BOM_Manufacturer Part": "Header-Female-2.54_1x3",
+            "puuid": "7e70b923819e4f3bb9fdeaf4abdca9d3",
+            "uuid": "beb7660708a0499fac6a060cc3851aa2"
+          }
+        ]
+      ],
+      "updateTime": 1605400586,
+      "createTime": 1605374634,
+      "histories": [],
+      "created_at": "2020-11-14 12:23:54",
+      "updated_at": "2020-11-14 19:36:26"
+    },
+    {
+      "uuid": "6f7f8500180a4929f77dc40c55f59e84",
+      "puuid": "6142d4cf3f659f93efa08f914d169cba",
+      "title": "PCB_2020-11-14_14-29-18",
+      "filename": "PCB_2020-11-14_14-29-18.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7b5acc26a9e741c1b103841d03f1ec7d": 6,
+        "7e70b923819e4f3bb9fdeaf4abdca9d3": 3,
+        "84f64690192b4f63a0f87a059e805018": 3
+      },
+      "BOM": [],
+      "updateTime": 1605392520,
+      "createTime": 1605382158,
+      "histories": [],
+      "created_at": "2020-11-14 14:29:18",
+      "updated_at": "2020-11-14 17:22:00"
+    }
+  ],
+  "sort": [],
+  "title": "sierpinski tree",
+  "foldername": "sierpinski tree",
+  "schfilename": "sierpinski tree.json",
+  "schfilemtime": 1605400586875
+}
